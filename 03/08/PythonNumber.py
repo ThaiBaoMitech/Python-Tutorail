@@ -12,13 +12,13 @@ x = 1 # int
 y = 2.8 # float
 z = 1j # complex
 
-#convert from int to float:
+#convert từ int thành float:
 a = float(x)
 
-#convert from float to int:
+#convert từ float thành int:
 b = int(y)
 
-#convert from int to complex:
+#convert từ int thành complex:
 c = complex(x)
 
 print(a)
